@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Education: degrees, university, college, study",
+    "text": "I hold an MTech in Artificial Intelligence from Amity University, Haryana (2024–2026, CGPA 9.4/10) and a B.E. in Electronics & Communication Engineering from Vins Christian Women’s College of Engineering, Kanyakumari (2018–2022, CGPA 8.58/10)."
+  },
+  {
+    "title": "Internship at NullClass: chatbot, backend, FastAPI",
+    "text": "As an AI/ML Intern at NullClass (May–September 2025), I built an intent-based e-commerce customer support chatbot using Python, NLP and TensorFlow/Keras. I trained a BiLSTM model for intent classification and built a FastAPI backend with a /chat endpoint that returns the predicted intent, a confidence score and a response, connected to an HTML/CSS/JavaScript chat interface with CORS configured."
+  },
+  {
+    "title": "Data annotation work: part-time freelance experience",
+    "text": "I worked part-time as a freelance data annotation and data support contributor (2022–2024): annotating and categorising data to project guidelines, validating labels for accuracy and consistency, data entry, quality checks and keeping structured records in spreadsheets."
+  },
+  {
+    "title": "Sign language project: computer vision, MediaPipe",
+    "text": "My MTech final-year project (2026) is a real-time sign language interpreter that recognises ASL and translates it to English text. It uses MediaPipe 3D hand landmarks and a hybrid MobileNet + Bi-LSTM model, with transfer learning for limited labelled data and low-latency edge deployment."
+  },
+  {
+    "title": "Face recognition attendance project: OpenCV",
+    "text": "My B.E. final-year project (2022) was a touchless attendance system using real-time face recognition with Gabor filter features, designed to stay robust under varied lighting."
+  },
+  {
+    "title": "Traffic congestion prediction: accuracy, random forest, machine learning",
+    "text": "In 2024 I built a Random Forest regression model that reached 93.8% prediction accuracy on urban traffic congestion data, covering preprocessing, feature selection, hyperparameter tuning and visualisation for smart-city planning."
+  },
+  {
+    "title": "Programming skills: Python, SQL, tools, technical skills",
+    "text": "I work in Python (advanced), R, SQL (MySQL, PL/SQL) and MATLAB, with NumPy, Pandas, Matplotlib, Scikit-learn, Jupyter Notebook and Google Colab. I also use FastAPI for backend APIs."
+  },
+  {
+    "title": "AI and machine learning skills: deep learning, NLP, vision",
+    "text": "My AI skills include PyTorch, TensorFlow, CNNs, RNNs, Bi-LSTM, ResNet, MobileNet and transfer learning; computer vision with OpenCV and MediaPipe; and NLP tasks such as text classification, sentiment analysis, named entity recognition and prompt engineering. I have basic YOLO experience."
+  },
+  {
+    "title": "Electronics and embedded skills: hardware, robotics",
+    "text": "From my Electronics & Communication background I have knowledge of embedded systems, Arduino, sensor integration, signal processing, communication networks and basic ROS."
+  },
+  {
+    "title": "Languages spoken and certifications",
+    "text": "I speak Tamil (native), English (fluent), Hindi (fluent), plus Japanese and French. Certifications: Data Structures & Algorithms in Python (grade A+) and Integration of AI in Education (90%)."
+  },
+  {
+    "title": "Career goals, location, hiring, contact, availability",
+    "text": "I’m based in Abu Dhabi, UAE and am looking for entry-level roles as an AI/ML engineer, backend developer or data analyst. You can reach me at prernacharis@gmail.com."
+  }
+]
